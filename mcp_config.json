@@ -1,0 +1,9 @@
+{
+    "mcpServers": {
+        "fetch-server": {
+            "type": "sse",
+            "url": "http://localhost:8000/sse",
+            "description": "An custom fetch server."
+        }
+    }
+}
