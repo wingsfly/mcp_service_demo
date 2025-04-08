@@ -1,0 +1,9 @@
+mcp[cli]
+starlette
+uvicorn
+httpx
+readability-lxml
+html2text
+ollama
+openai
+boto3
